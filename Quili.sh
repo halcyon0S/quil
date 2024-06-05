@@ -263,6 +263,6 @@ case $OPTION in
 esac
 }
 
-显示主菜单
+# 显示主菜单
 
 main_menu
